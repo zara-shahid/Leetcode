@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/zara-shahid/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zara-shahid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zara-shahid/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/zara-shahid/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zara-shahid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zara-shahid/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/zara-shahid/Leetcode/tree/master/1013-fibonacci-number) |
