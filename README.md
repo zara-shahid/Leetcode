@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zara-shahid/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1448-maximum-69-number](https://github.com/zara-shahid/Leetcode/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/zara-shahid/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/zara-shahid/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1013-fibonacci-number](https://github.com/zara-shahid/Leetcode/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/zara-shahid/Leetcode/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
