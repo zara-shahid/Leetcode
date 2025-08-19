@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/zara-shahid/Leetcode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zara-shahid/Leetcode/tree/master/0231-power-of-two) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/zara-shahid/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/zara-shahid/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zara-shahid/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
