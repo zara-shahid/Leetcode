@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/zara-shahid/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/zara-shahid/Leetcode/tree/master/0231-power-of-two) |
