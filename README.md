@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/zara-shahid/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/zara-shahid/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/zara-shahid/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zara-shahid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/zara-shahid/Leetcode/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zara-shahid/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/zara-shahid/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -157,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
