@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1791-richest-customer-wealth](https://github.com/zara-shahid/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/zara-shahid/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zara-shahid/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1448-maximum-69-number](https://github.com/zara-shahid/Leetcode/tree/master/1448-maximum-69-number) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/zara-shahid/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Two Pointers
 |  |
