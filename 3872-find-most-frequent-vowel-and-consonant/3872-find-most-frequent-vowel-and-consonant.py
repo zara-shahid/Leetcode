@@ -1,28 +1,9 @@
 from collections import Counter
+
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        vowels="aeiou"
-        vowel=[]
-        conso=[]
-        ans=0
-        max_vow,max_conso=0,0
-        for ch in s:
-            if ch in vowels:
-                vowel.append(ch)
-            else:
-                conso.append(ch)
-        c_vowel=Counter(vowel)
-        c_conso=Counter(conso)
-        for e,fr in c_vowel.items():
-            if fr>max_vow:
-                max_vow=fr
-        for e, fr in c_conso.items():
-            if fr > max_conso:
-                max_conso = fr
-        ans=max_vow+max_conso
-        return ans
-        
-
-        
-        
-        
+        vowels = "aeiou"
+        c_vowel = Counter(ch for ch in s if ch in vowels)
+        c_conso = Counter(ch for ch in s if ch.isalpha() and ch not in vowels)
+        return (max(c_vowel.values(), default=0) +
+                max(c_conso.values(), default=0))
