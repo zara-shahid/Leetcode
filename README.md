@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3738-make-array-non-decreasing](https://github.com/zara-shahid/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/zara-shahid/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/zara-shahid/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/zara-shahid/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/zara-shahid/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/zara-shahid/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/zara-shahid/Leetcode/tree/master/0817-design-hashmap) |
+## Number Theory
+|  |
+| ------- |
+| [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 <!---LeetCode Topics End-->
