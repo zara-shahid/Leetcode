@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/zara-shahid/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
