@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/zara-shahid/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zara-shahid/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/zara-shahid/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zara-shahid/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/zara-shahid/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/zara-shahid/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/zara-shahid/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
