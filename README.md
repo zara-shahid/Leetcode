@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/zara-shahid/Leetcode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/zara-shahid/Leetcode/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/zara-shahid/Leetcode/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/zara-shahid/Leetcode/tree/master/1642-water-bottles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zara-shahid/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
