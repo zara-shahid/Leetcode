@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1806-count-of-matches-in-tournament](https://github.com/zara-shahid/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/zara-shahid/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/zara-shahid/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/zara-shahid/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/zara-shahid/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/zara-shahid/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
