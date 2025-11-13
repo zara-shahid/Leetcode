@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/zara-shahid/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/zara-shahid/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/zara-shahid/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zara-shahid/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/zara-shahid/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/zara-shahid/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/zara-shahid/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
