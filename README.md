@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/zara-shahid/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/zara-shahid/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1965-sum-of-digits-in-base-k](https://github.com/zara-shahid/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
