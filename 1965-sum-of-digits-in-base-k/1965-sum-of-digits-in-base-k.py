@@ -5,7 +5,6 @@ class Solution:
             rem=n%k
             n=n//k
             ans+=rem
-        n+=1
         return ans
 
 
