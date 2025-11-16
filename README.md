@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/zara-shahid/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2491-smallest-even-multiple](https://github.com/zara-shahid/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/zara-shahid/Leetcode/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/zara-shahid/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
 |  |
