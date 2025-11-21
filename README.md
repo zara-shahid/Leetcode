@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/zara-shahid/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/zara-shahid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/zara-shahid/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zara-shahid/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/zara-shahid/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/zara-shahid/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/zara-shahid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/zara-shahid/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/zara-shahid/Leetcode/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/zara-shahid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/zara-shahid/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
