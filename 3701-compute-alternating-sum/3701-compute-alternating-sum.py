@@ -3,8 +3,8 @@ class Solution:
         ans=0
         for i, digit in enumerate(nums):
             if i%2==0:
-                ans+=int(digit)
+                ans+=digit
             else:
-                ans-=int(digit)
+                ans-=digit
         return ans
         
