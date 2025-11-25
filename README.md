@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/zara-shahid/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/zara-shahid/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/zara-shahid/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/zara-shahid/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/zara-shahid/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/zara-shahid/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/zara-shahid/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/zara-shahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zara-shahid/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
