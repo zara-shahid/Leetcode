@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/zara-shahid/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zara-shahid/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/zara-shahid/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/zara-shahid/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/zara-shahid/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/zara-shahid/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/zara-shahid/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/zara-shahid/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zara-shahid/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zara-shahid/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/zara-shahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Recursion
 |  |
 | ------- |
