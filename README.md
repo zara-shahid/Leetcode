@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2409-count-days-spent-together](https://github.com/zara-shahid/Leetcode/tree/master/2409-count-days-spent-together) |
+| [2427-number-of-common-factors](https://github.com/zara-shahid/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/zara-shahid/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/zara-shahid/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2427-number-of-common-factors](https://github.com/zara-shahid/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zara-shahid/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Stack
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/zara-shahid/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/zara-shahid/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/zara-shahid/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/zara-shahid/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
