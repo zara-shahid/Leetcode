@@ -1,7 +1,5 @@
 class Solution:
     def commonFactors(self, a: int, b: int) -> int:
-        newa=str(a)
-        newb=str(b)
         i=1
         count=0
         while i<=max(a,b):
