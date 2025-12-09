@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2614-prime-in-diagonal](https://github.com/zara-shahid/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/zara-shahid/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2591-distribute-money-to-maximum-children](https://github.com/zara-shahid/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2614-prime-in-diagonal](https://github.com/zara-shahid/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/zara-shahid/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/zara-shahid/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Data Stream
 |  |
 | ------- |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/zara-shahid/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/zara-shahid/Leetcode/tree/master/2491-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/zara-shahid/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
 |  |
