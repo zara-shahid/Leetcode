@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/zara-shahid/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0056-merge-intervals](https://github.com/zara-shahid/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/zara-shahid/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/zara-shahid/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/zara-shahid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/zara-shahid/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/zara-shahid/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/zara-shahid/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/zara-shahid/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/zara-shahid/Leetcode/tree/master/0168-excel-sheet-column-title) |
