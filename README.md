@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/zara-shahid/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2739-total-distance-traveled](https://github.com/zara-shahid/Leetcode/tree/master/2739-total-distance-traveled) |
+| [2769-find-the-maximum-achievable-number](https://github.com/zara-shahid/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
