@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/zara-shahid/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/zara-shahid/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/zara-shahid/Leetcode/tree/master/2843-count-symmetric-integers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/zara-shahid/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
