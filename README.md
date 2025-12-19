@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zara-shahid/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/zara-shahid/Leetcode/tree/master/3324-split-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/zara-shahid/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/zara-shahid/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/zara-shahid/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/zara-shahid/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/zara-shahid/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/zara-shahid/Leetcode/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zara-shahid/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/zara-shahid/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/zara-shahid/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Data Stream
 |  |
 | ------- |
