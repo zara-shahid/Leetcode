@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/zara-shahid/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3099-harshad-number](https://github.com/zara-shahid/Leetcode/tree/master/3099-harshad-number) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
