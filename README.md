@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/zara-shahid/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/zara-shahid/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/zara-shahid/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/zara-shahid/Leetcode/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/zara-shahid/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zara-shahid/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
