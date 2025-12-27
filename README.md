@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/zara-shahid/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/zara-shahid/Leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/zara-shahid/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/zara-shahid/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -581,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1115-valid-boomerang](https://github.com/zara-shahid/Leetcode/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zara-shahid/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/zara-shahid/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
