@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zara-shahid/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3701-compute-alternating-sum](https://github.com/zara-shahid/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zara-shahid/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3738-make-array-non-decreasing](https://github.com/zara-shahid/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/zara-shahid/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zara-shahid/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zara-shahid/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zara-shahid/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/zara-shahid/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
