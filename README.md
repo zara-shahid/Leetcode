@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zara-shahid/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/zara-shahid/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zara-shahid/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zara-shahid/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/zara-shahid/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-stone-removal-game](https://github.com/zara-shahid/Leetcode/tree/master/3360-stone-removal-game) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zara-shahid/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/zara-shahid/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/zara-shahid/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Enumeration
 |  |
 | ------- |
