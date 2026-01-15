@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/zara-shahid/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/zara-shahid/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/zara-shahid/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/zara-shahid/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/zara-shahid/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0070-climbing-stairs) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/zara-shahid/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/zara-shahid/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zara-shahid/Leetcode/tree/master/0191-number-of-1-bits) |
