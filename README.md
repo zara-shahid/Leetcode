@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/zara-shahid/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zara-shahid/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2293-min-max-game](https://github.com/zara-shahid/Leetcode/tree/master/2293-min-max-game) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/zara-shahid/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/zara-shahid/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2293-min-max-game](https://github.com/zara-shahid/Leetcode/tree/master/2293-min-max-game) |
 | [2582-pass-the-pillow](https://github.com/zara-shahid/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2739-total-distance-traveled](https://github.com/zara-shahid/Leetcode/tree/master/2739-total-distance-traveled) |
