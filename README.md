@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/zara-shahid/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/zara-shahid/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0390-elimination-game](https://github.com/zara-shahid/Leetcode/tree/master/0390-elimination-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/zara-shahid/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/zara-shahid/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/zara-shahid/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/zara-shahid/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/zara-shahid/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/zara-shahid/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/zara-shahid/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/zara-shahid/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/zara-shahid/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/zara-shahid/Leetcode/tree/master/0645-set-mismatch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/zara-shahid/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/zara-shahid/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zara-shahid/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/zara-shahid/Leetcode/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/zara-shahid/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/zara-shahid/Leetcode/tree/master/0409-longest-palindrome) |
 | [0504-base-7](https://github.com/zara-shahid/Leetcode/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zara-shahid/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
