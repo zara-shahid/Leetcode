@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/zara-shahid/Leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/zara-shahid/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/zara-shahid/Leetcode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/zara-shahid/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/zara-shahid/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0816-design-hashset](https://github.com/zara-shahid/Leetcode/tree/master/0816-design-hashset) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/zara-shahid/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/zara-shahid/Leetcode/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/zara-shahid/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [0740-delete-and-earn](https://github.com/zara-shahid/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/zara-shahid/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/zara-shahid/Leetcode/tree/master/1086-divisor-game) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/zara-shahid/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zara-shahid/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/zara-shahid/Leetcode/tree/master/0645-set-mismatch) |
+| [0740-delete-and-earn](https://github.com/zara-shahid/Leetcode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/zara-shahid/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/zara-shahid/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/zara-shahid/Leetcode/tree/master/0817-design-hashmap) |
