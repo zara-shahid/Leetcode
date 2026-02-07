@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/zara-shahid/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/zara-shahid/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zara-shahid/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/zara-shahid/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
