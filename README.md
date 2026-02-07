@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/zara-shahid/Leetcode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/zara-shahid/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/zara-shahid/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0416-partition-equal-subset-sum](https://github.com/zara-shahid/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/zara-shahid/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/zara-shahid/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/zara-shahid/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/zara-shahid/Leetcode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/zara-shahid/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0650-2-keys-keyboard](https://github.com/zara-shahid/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/zara-shahid/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
