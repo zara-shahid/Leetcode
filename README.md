@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/zara-shahid/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/zara-shahid/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/zara-shahid/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/zara-shahid/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/zara-shahid/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/zara-shahid/Leetcode/tree/master/0817-design-hashmap) |
 ## Prefix Sum
