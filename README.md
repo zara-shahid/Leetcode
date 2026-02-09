@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/zara-shahid/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/zara-shahid/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/zara-shahid/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/zara-shahid/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zara-shahid/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/zara-shahid/Leetcode/tree/master/0561-array-partition) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/zara-shahid/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/zara-shahid/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/zara-shahid/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/zara-shahid/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/zara-shahid/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/zara-shahid/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/zara-shahid/Leetcode/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/zara-shahid/Leetcode/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
