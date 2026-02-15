@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/zara-shahid/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/zara-shahid/Leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/zara-shahid/Leetcode/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/zara-shahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/zara-shahid/Leetcode/tree/master/0724-find-pivot-index) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/zara-shahid/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/zara-shahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zara-shahid/Leetcode/tree/master/0643-maximum-average-subarray-i) |
