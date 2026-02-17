@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zara-shahid/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/zara-shahid/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/zara-shahid/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0053-maximum-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zara-shahid/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zara-shahid/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/zara-shahid/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/zara-shahid/Leetcode/tree/master/0561-array-partition) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zara-shahid/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
