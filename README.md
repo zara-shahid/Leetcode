@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/zara-shahid/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/zara-shahid/Leetcode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/zara-shahid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/zara-shahid/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/zara-shahid/Leetcode/tree/master/0056-merge-intervals) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zara-shahid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/zara-shahid/Leetcode/tree/master/0118-pascals-triangle) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/zara-shahid/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/zara-shahid/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/zara-shahid/Leetcode/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/zara-shahid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zara-shahid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/zara-shahid/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/zara-shahid/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/zara-shahid/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/zara-shahid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zara-shahid/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/zara-shahid/Leetcode/tree/master/0739-daily-temperatures) |
