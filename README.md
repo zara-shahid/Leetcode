@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/zara-shahid/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/zara-shahid/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/zara-shahid/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/zara-shahid/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/zara-shahid/Leetcode/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/zara-shahid/Leetcode/tree/master/0650-2-keys-keyboard) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0392-is-subsequence) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/zara-shahid/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/zara-shahid/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/zara-shahid/Leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/zara-shahid/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/zara-shahid/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/zara-shahid/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
