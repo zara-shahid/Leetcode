@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/zara-shahid/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/zara-shahid/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/zara-shahid/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/zara-shahid/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/zara-shahid/Leetcode/tree/master/0494-target-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/zara-shahid/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/zara-shahid/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/zara-shahid/Leetcode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/zara-shahid/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/zara-shahid/Leetcode/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/zara-shahid/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/zara-shahid/Leetcode/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/zara-shahid/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/zara-shahid/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/zara-shahid/Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/zara-shahid/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/zara-shahid/Leetcode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
