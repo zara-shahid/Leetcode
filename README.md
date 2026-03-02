@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/zara-shahid/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0816-design-hashset](https://github.com/zara-shahid/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/zara-shahid/Leetcode/tree/master/0817-design-hashmap) |
+| [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0990-verifying-an-alien-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/zara-shahid/Leetcode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/zara-shahid/Leetcode/tree/master/0504-base-7) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zara-shahid/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/zara-shahid/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/zara-shahid/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
