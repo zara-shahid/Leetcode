@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/zara-shahid/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/zara-shahid/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/zara-shahid/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/zara-shahid/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/zara-shahid/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/zara-shahid/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/zara-shahid/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/zara-shahid/Leetcode/tree/master/1122-relative-sort-array) |
