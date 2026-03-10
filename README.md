@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/zara-shahid/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/zara-shahid/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/zara-shahid/Leetcode/tree/master/0925-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
 | [0917-reverse-only-letters](https://github.com/zara-shahid/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/zara-shahid/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0925-long-pressed-name](https://github.com/zara-shahid/Leetcode/tree/master/0925-long-pressed-name) |
 | [0990-verifying-an-alien-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/zara-shahid/Leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/zara-shahid/Leetcode/tree/master/1078-remove-outermost-parentheses) |
