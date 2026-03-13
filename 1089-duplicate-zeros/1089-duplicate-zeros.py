@@ -1,13 +1,13 @@
 class Solution:
     def duplicateZeros(self, arr: List[int]) -> None:
-        i = 0
-        n = len(arr)
-        while i < n:
-            if arr[i] == 0:
-                for j in range(n-1, i, -1):
-                    arr[j] = arr[j-1]
-                if i + 1 < n:
-                    arr[i+1] = 0
-                i += 2   
+        """
+        Do not return anything, modify arr in-place instead.
+        """
+        i=0
+        while i < len(arr):
+            if arr[i]==0:
+                arr.insert(i+1, 0)
+                arr.pop()
+                i+=2
             else:
-                i += 1
+                i+=1
