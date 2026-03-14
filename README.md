@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/zara-shahid/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/zara-shahid/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/zara-shahid/Leetcode/tree/master/1217-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/zara-shahid/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/zara-shahid/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/zara-shahid/Leetcode/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/zara-shahid/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/zara-shahid/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/zara-shahid/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/zara-shahid/Leetcode/tree/master/1217-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/zara-shahid/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/zara-shahid/Leetcode/tree/master/1217-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/zara-shahid/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/zara-shahid/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1472-increasing-decreasing-string](https://github.com/zara-shahid/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
