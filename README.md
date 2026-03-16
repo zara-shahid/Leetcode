@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/zara-shahid/Leetcode/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/zara-shahid/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/zara-shahid/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/zara-shahid/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/zara-shahid/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/zara-shahid/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1332-remove-palindromic-subsequences](https://github.com/zara-shahid/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1472-increasing-decreasing-string](https://github.com/zara-shahid/Leetcode/tree/master/1472-increasing-decreasing-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
