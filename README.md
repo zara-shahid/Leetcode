@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/zara-shahid/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zara-shahid/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3324-split-the-array](https://github.com/zara-shahid/Leetcode/tree/master/3324-split-the-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2578-split-with-minimum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
