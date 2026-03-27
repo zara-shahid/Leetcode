@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zara-shahid/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/zara-shahid/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
