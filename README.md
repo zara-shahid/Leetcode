@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zara-shahid/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/zara-shahid/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zara-shahid/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/zara-shahid/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/zara-shahid/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
