@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zara-shahid/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/zara-shahid/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/zara-shahid/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/zara-shahid/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/zara-shahid/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2562-find-the-array-concatenation-value](https://github.com/zara-shahid/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
