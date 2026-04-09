@@ -6,18 +6,17 @@ class Solution:
         for word in words:
             if len(word)==1:
                 valid_words.add(word)
-                if len(word)>len(best_word):
-                    best_word=word
-                elif len(word)==len(best_word):
-                    if word<best_word:
-                        best_word=word
+                
             elif word[:-1] in valid_words:
                 valid_words.add(word)
+
+            if word in valid_words:
                 if len(word)>len(best_word):
-                    best_word=word
+                        best_word=word
                 elif len(word)==len(best_word):
                     if word<best_word:
                         best_word=word
+
         return best_word
             
         
