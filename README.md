@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/zara-shahid/Leetcode/tree/master/0832-flipping-an-image) |
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
+| [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/zara-shahid/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0740-delete-and-earn](https://github.com/zara-shahid/Leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/zara-shahid/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/zara-shahid/Leetcode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/zara-shahid/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/zara-shahid/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/zara-shahid/Leetcode/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2427-number-of-common-factors](https://github.com/zara-shahid/Leetcode/tree/master/2427-number-of-common-factors) |
