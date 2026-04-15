@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/zara-shahid/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/zara-shahid/Leetcode/tree/master/0817-design-hashmap) |
 | [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/zara-shahid/Leetcode/tree/master/0832-flipping-an-image) |
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
 | [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/zara-shahid/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/zara-shahid/Leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/zara-shahid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/zara-shahid/Leetcode/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/zara-shahid/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/zara-shahid/Leetcode/tree/master/0475-heaters) |
+| [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/zara-shahid/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
