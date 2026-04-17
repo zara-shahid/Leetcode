@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/zara-shahid/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/zara-shahid/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/zara-shahid/Leetcode/tree/master/1023-camelcase-matching) |
 | [1044-find-common-characters](https://github.com/zara-shahid/Leetcode/tree/master/1044-find-common-characters) |
 | [1089-duplicate-zeros](https://github.com/zara-shahid/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/zara-shahid/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/zara-shahid/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/zara-shahid/Leetcode/tree/master/0942-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/zara-shahid/Leetcode/tree/master/1023-camelcase-matching) |
 | [1089-duplicate-zeros](https://github.com/zara-shahid/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/zara-shahid/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/zara-shahid/Leetcode/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/zara-shahid/Leetcode/tree/master/0942-di-string-match) |
 | [0990-verifying-an-alien-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1023-camelcase-matching](https://github.com/zara-shahid/Leetcode/tree/master/1023-camelcase-matching) |
 | [1044-find-common-characters](https://github.com/zara-shahid/Leetcode/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/zara-shahid/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/zara-shahid/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0720-longest-word-in-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [1023-camelcase-matching](https://github.com/zara-shahid/Leetcode/tree/master/1023-camelcase-matching) |
 ## Simulation
 |  |
 | ------- |
@@ -853,5 +857,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1023-camelcase-matching](https://github.com/zara-shahid/Leetcode/tree/master/1023-camelcase-matching) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zara-shahid/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
