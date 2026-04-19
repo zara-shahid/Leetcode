@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/zara-shahid/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/zara-shahid/Leetcode/tree/master/0942-di-string-match) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/zara-shahid/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/zara-shahid/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/zara-shahid/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/zara-shahid/Leetcode/tree/master/0475-heaters) |
 | [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
+| [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/zara-shahid/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/zara-shahid/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/zara-shahid/Leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
+| [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/zara-shahid/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/zara-shahid/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
