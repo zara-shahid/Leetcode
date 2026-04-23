@@ -9,7 +9,7 @@ class Solution:
             if grid[row][col]<0:
                 count+=(m-row)
                 col-=1
-            elif grid[row][col]>=0:
+            else:
                 row+=1
 
         return count
