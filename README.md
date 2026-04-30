@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/zara-shahid/Leetcode/tree/master/0832-flipping-an-image) |
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
 | [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/zara-shahid/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/zara-shahid/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/zara-shahid/Leetcode/tree/master/0475-heaters) |
 | [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/zara-shahid/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/zara-shahid/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zara-shahid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
