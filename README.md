@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zara-shahid/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/zara-shahid/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0540-single-element-in-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/zara-shahid/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/zara-shahid/Leetcode/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/zara-shahid/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/zara-shahid/Leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/zara-shahid/Leetcode/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0825-friends-of-appropriate-ages](https://github.com/zara-shahid/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/zara-shahid/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
