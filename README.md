@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/zara-shahid/Leetcode/tree/master/0832-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/zara-shahid/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/zara-shahid/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
+| [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/zara-shahid/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/zara-shahid/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zara-shahid/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1472-increasing-decreasing-string](https://github.com/zara-shahid/Leetcode/tree/master/1472-increasing-decreasing-string) |
+| [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/zara-shahid/Leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/zara-shahid/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zara-shahid/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zara-shahid/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zara-shahid/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/zara-shahid/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/zara-shahid/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/zara-shahid/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
