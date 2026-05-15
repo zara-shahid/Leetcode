@@ -7,5 +7,5 @@ class Solution:
                 y=nums[j]
                 if abs(x-y)<=min(x,y):
                     current = x^y
-                ans=max(ans,current)
+                    ans=max(ans,current)
         return ans
