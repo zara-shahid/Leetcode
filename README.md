@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/zara-shahid/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/zara-shahid/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0416-partition-equal-subset-sum](https://github.com/zara-shahid/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/zara-shahid/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/zara-shahid/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/zara-shahid/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/zara-shahid/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/zara-shahid/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/zara-shahid/Leetcode/tree/master/0645-set-mismatch) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/zara-shahid/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/zara-shahid/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0383-ransom-note](https://github.com/zara-shahid/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/zara-shahid/Leetcode/tree/master/0409-longest-palindrome) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/zara-shahid/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -740,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [1023-camelcase-matching](https://github.com/zara-shahid/Leetcode/tree/master/1023-camelcase-matching) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/zara-shahid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
