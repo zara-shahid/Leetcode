@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/zara-shahid/Leetcode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/zara-shahid/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0165-compare-version-numbers](https://github.com/zara-shahid/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/zara-shahid/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/zara-shahid/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/zara-shahid/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/zara-shahid/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/zara-shahid/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/zara-shahid/Leetcode/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/zara-shahid/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/zara-shahid/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/zara-shahid/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/zara-shahid/Leetcode/tree/master/0224-basic-calculator) |
