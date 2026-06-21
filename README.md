@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/zara-shahid/Leetcode/tree/master/0475-heaters) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/zara-shahid/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/zara-shahid/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0567-permutation-in-string](https://github.com/zara-shahid/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/zara-shahid/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/zara-shahid/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/zara-shahid/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/zara-shahid/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0567-permutation-in-string](https://github.com/zara-shahid/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/zara-shahid/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zara-shahid/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/zara-shahid/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/zara-shahid/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/zara-shahid/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0567-permutation-in-string](https://github.com/zara-shahid/Leetcode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/zara-shahid/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/zara-shahid/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0720-longest-word-in-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/zara-shahid/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/zara-shahid/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/zara-shahid/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zara-shahid/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/zara-shahid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
