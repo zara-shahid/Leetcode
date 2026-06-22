@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/zara-shahid/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zara-shahid/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2405-optimal-partition-of-string](https://github.com/zara-shahid/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2578-split-with-minimum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/zara-shahid/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/zara-shahid/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zara-shahid/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/zara-shahid/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2405-optimal-partition-of-string](https://github.com/zara-shahid/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/zara-shahid/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zara-shahid/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/zara-shahid/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zara-shahid/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zara-shahid/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2405-optimal-partition-of-string](https://github.com/zara-shahid/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/zara-shahid/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2825-minimize-string-length](https://github.com/zara-shahid/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
