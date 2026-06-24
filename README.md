@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zara-shahid/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/zara-shahid/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zara-shahid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/zara-shahid/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2578-split-with-minimum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/zara-shahid/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zara-shahid/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/zara-shahid/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
