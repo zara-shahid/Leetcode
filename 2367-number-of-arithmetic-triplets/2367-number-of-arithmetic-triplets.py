@@ -1,11 +1,10 @@
 class Solution:
     def arithmeticTriplets(self, nums: List[int], diff: int) -> int:
-        ans=0
-        for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                for k in range(j+1,len(nums)):
-                    if i<j<k:
-                        if nums[j]-nums[i]==diff and nums[k]-nums[j]==diff:
-                            ans+=1
+        s = set(nums)
+        ans = 0
+
+        for i in nums:
+            if i + diff in s and i + 2 * diff in s:
+                ans += 1
+
         return ans
-        
