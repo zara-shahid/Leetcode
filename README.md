@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/zara-shahid/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/zara-shahid/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1534-count-good-triplets](https://github.com/zara-shahid/Leetcode/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/zara-shahid/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/zara-shahid/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/zara-shahid/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1534-count-good-triplets](https://github.com/zara-shahid/Leetcode/tree/master/1534-count-good-triplets) |
 | [2083-three-divisors](https://github.com/zara-shahid/Leetcode/tree/master/2083-three-divisors) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zara-shahid/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
