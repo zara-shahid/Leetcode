@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zara-shahid/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/zara-shahid/Leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/zara-shahid/Leetcode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/zara-shahid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/zara-shahid/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3738-make-array-non-decreasing](https://github.com/zara-shahid/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/zara-shahid/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/zara-shahid/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2634-minimum-common-value](https://github.com/zara-shahid/Leetcode/tree/master/2634-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3477-fruits-into-baskets-ii](https://github.com/zara-shahid/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/zara-shahid/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/zara-shahid/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/zara-shahid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zara-shahid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -892,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zara-shahid/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zara-shahid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/zara-shahid/Leetcode/tree/master/3324-split-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zara-shahid/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
