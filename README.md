@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/zara-shahid/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/zara-shahid/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/zara-shahid/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zara-shahid/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/zara-shahid/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/zara-shahid/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/zara-shahid/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/zara-shahid/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/zara-shahid/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/zara-shahid/Leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/zara-shahid/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
