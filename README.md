@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/zara-shahid/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3637-trionic-array-i](https://github.com/zara-shahid/Leetcode/tree/master/3637-trionic-array-i) |
+| [3649-number-of-perfect-pairs](https://github.com/zara-shahid/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3697-compute-decimal-representation](https://github.com/zara-shahid/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3701-compute-alternating-sum](https://github.com/zara-shahid/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zara-shahid/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/zara-shahid/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3649-number-of-perfect-pairs](https://github.com/zara-shahid/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3649-number-of-perfect-pairs](https://github.com/zara-shahid/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/zara-shahid/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3649-number-of-perfect-pairs](https://github.com/zara-shahid/Leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3697-compute-decimal-representation](https://github.com/zara-shahid/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/zara-shahid/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zara-shahid/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
