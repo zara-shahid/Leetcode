@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/zara-shahid/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/zara-shahid/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3738-make-array-non-decreasing](https://github.com/zara-shahid/Leetcode/tree/master/3738-make-array-non-decreasing) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/zara-shahid/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/zara-shahid/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/zara-shahid/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/zara-shahid/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3649-number-of-perfect-pairs](https://github.com/zara-shahid/Leetcode/tree/master/3649-number-of-perfect-pairs) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/zara-shahid/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Math
 |  |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/zara-shahid/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/zara-shahid/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/zara-shahid/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/zara-shahid/Leetcode/tree/master/3994-find-the-least-frequent-digit) |
 ## Binary Search
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3477-fruits-into-baskets-ii](https://github.com/zara-shahid/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/zara-shahid/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -960,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/zara-shahid/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/zara-shahid/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zara-shahid/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/zara-shahid/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Brainteaser
 |  |
