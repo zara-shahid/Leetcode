@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/zara-shahid/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
+| [2938-separate-black-and-white-balls](https://github.com/zara-shahid/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3738-make-array-non-decreasing](https://github.com/zara-shahid/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/zara-shahid/Leetcode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2938-separate-black-and-white-balls](https://github.com/zara-shahid/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/3584-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3649-number-of-perfect-pairs](https://github.com/zara-shahid/Leetcode/tree/master/3649-number-of-perfect-pairs) |
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/zara-shahid/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2825-minimize-string-length](https://github.com/zara-shahid/Leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2938-separate-black-and-white-balls](https://github.com/zara-shahid/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/zara-shahid/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zara-shahid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zara-shahid/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
