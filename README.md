@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/zara-shahid/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/zara-shahid/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/zara-shahid/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/zara-shahid/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/zara-shahid/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/zara-shahid/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/zara-shahid/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/zara-shahid/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/zara-shahid/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/zara-shahid/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/zara-shahid/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/zara-shahid/Leetcode/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/zara-shahid/Leetcode/tree/master/1086-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/zara-shahid/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
