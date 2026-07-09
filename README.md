@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/zara-shahid/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/zara-shahid/Leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/zara-shahid/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/zara-shahid/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/zara-shahid/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/zara-shahid/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/zara-shahid/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sliding Window
 |  |
 | ------- |
