@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/zara-shahid/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3206-alternating-groups-i](https://github.com/zara-shahid/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/zara-shahid/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3324-split-the-array](https://github.com/zara-shahid/Leetcode/tree/master/3324-split-the-array) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zara-shahid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/zara-shahid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zara-shahid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/zara-shahid/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
