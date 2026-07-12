@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zara-shahid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/zara-shahid/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/zara-shahid/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/zara-shahid/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/zara-shahid/Leetcode/tree/master/2825-minimize-string-length) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/zara-shahid/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/zara-shahid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zara-shahid/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zara-shahid/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/zara-shahid/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/zara-shahid/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/zara-shahid/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zara-shahid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/zara-shahid/Leetcode/tree/master/3206-alternating-groups-i) |
