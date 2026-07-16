@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/zara-shahid/Leetcode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/zara-shahid/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/zara-shahid/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/zara-shahid/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/zara-shahid/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/zara-shahid/Leetcode/tree/master/0942-di-string-match) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/zara-shahid/Leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/zara-shahid/Leetcode/tree/master/0837-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/zara-shahid/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0904-fruit-into-baskets](https://github.com/zara-shahid/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/zara-shahid/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/zara-shahid/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/zara-shahid/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/zara-shahid/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/zara-shahid/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/zara-shahid/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/zara-shahid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zara-shahid/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
