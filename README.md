@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/zara-shahid/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1695-maximum-erasure-value](https://github.com/zara-shahid/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/zara-shahid/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1695-maximum-erasure-value](https://github.com/zara-shahid/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/zara-shahid/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/zara-shahid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zara-shahid/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1695-maximum-erasure-value](https://github.com/zara-shahid/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zara-shahid/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zara-shahid/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
