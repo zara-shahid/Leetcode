@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/zara-shahid/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/zara-shahid/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/zara-shahid/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zara-shahid/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zara-shahid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/zara-shahid/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/zara-shahid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2485-find-the-pivot-integer](https://github.com/zara-shahid/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/zara-shahid/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/zara-shahid/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/zara-shahid/Leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2032-largest-odd-number-in-string](https://github.com/zara-shahid/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/zara-shahid/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/zara-shahid/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zara-shahid/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/zara-shahid/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/zara-shahid/Leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/zara-shahid/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zara-shahid/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
