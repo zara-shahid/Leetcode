@@ -685,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zara-shahid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/zara-shahid/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/zara-shahid/Leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3324-split-the-array](https://github.com/zara-shahid/Leetcode/tree/master/3324-split-the-array) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zara-shahid/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/zara-shahid/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/zara-shahid/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zara-shahid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/zara-shahid/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/zara-shahid/Leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/zara-shahid/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zara-shahid/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/zara-shahid/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/zara-shahid/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/zara-shahid/Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/zara-shahid/Leetcode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/zara-shahid/Leetcode/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Recursion
