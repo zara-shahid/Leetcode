@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/zara-shahid/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2401-longest-nice-subarray](https://github.com/zara-shahid/Leetcode/tree/master/2401-longest-nice-subarray) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/zara-shahid/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2439-minimize-maximum-of-array](https://github.com/zara-shahid/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/zara-shahid/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/zara-shahid/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/zara-shahid/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/zara-shahid/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/zara-shahid/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2439-minimize-maximum-of-array](https://github.com/zara-shahid/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/zara-shahid/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2405-optimal-partition-of-string](https://github.com/zara-shahid/Leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2439-minimize-maximum-of-array](https://github.com/zara-shahid/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/zara-shahid/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2578-split-with-minimum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/zara-shahid/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/zara-shahid/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zara-shahid/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2439-minimize-maximum-of-array](https://github.com/zara-shahid/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/zara-shahid/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/zara-shahid/Leetcode/tree/master/2576-find-the-maximum-number-of-marked-indices) |
@@ -599,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2439-minimize-maximum-of-array](https://github.com/zara-shahid/Leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/zara-shahid/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
