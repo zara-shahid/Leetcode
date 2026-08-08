@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/zara-shahid/Leetcode/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/zara-shahid/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/zara-shahid/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/zara-shahid/Leetcode/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [2938-separate-black-and-white-balls](https://github.com/zara-shahid/Leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/zara-shahid/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3738-make-array-non-decreasing](https://github.com/zara-shahid/Leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/zara-shahid/Leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/zara-shahid/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/zara-shahid/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/zara-shahid/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/zara-shahid/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3634-minimum-removals-to-balance-array](https://github.com/zara-shahid/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3649-number-of-perfect-pairs](https://github.com/zara-shahid/Leetcode/tree/master/3649-number-of-perfect-pairs) |
