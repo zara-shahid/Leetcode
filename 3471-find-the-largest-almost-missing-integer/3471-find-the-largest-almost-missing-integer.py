@@ -1,18 +1,12 @@
 class Solution:
     def largestInteger(self, nums: List[int], k: int) -> int:
-        freq = {}
-        n = len(nums)
+        if k == len(nums):
+            return max(nums)
 
-        for i in range(n - k + 1):
-            subarray = nums[i:i+k]
-
-            for x in set(subarray):
-                freq[x] = freq.get(x, 0) + 1
-
-        ans = -1
-
-        for x in freq:
-            if freq[x] == 1:
-                ans = max(ans, x)
-
-        return ans
+        if k == 1:
+            arr = [x for x in nums if nums.count(x) == 1]
+        
+        else:
+            arr = [x for x in (nums[0], nums[-1]) if nums.count(x) == 1]
+    
+        return max(arr) if arr else -1
