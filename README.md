@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/zara-shahid/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/zara-shahid/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1818-minimum-absolute-sum-difference](https://github.com/zara-shahid/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/zara-shahid/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/zara-shahid/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/zara-shahid/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1818-minimum-absolute-sum-difference](https://github.com/zara-shahid/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/zara-shahid/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
