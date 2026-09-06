@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/zara-shahid/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/zara-shahid/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/zara-shahid/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zara-shahid/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/zara-shahid/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zara-shahid/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/zara-shahid/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/zara-shahid/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/zara-shahid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zara-shahid/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/zara-shahid/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
