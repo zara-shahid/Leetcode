@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/zara-shahid/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/zara-shahid/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/zara-shahid/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1760-check-array-formation-through-concatenation](https://github.com/zara-shahid/Leetcode/tree/master/1760-check-array-formation-through-concatenation) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/zara-shahid/Leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/zara-shahid/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/zara-shahid/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/zara-shahid/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
