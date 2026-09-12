@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/zara-shahid/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/zara-shahid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zara-shahid/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/zara-shahid/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/zara-shahid/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/zara-shahid/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/zara-shahid/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/zara-shahid/Leetcode/tree/master/1332-remove-palindromic-subsequences) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/zara-shahid/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/zara-shahid/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/zara-shahid/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1472-increasing-decreasing-string](https://github.com/zara-shahid/Leetcode/tree/master/1472-increasing-decreasing-string) |
