@@ -648,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/zara-shahid/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3707-equal-score-substrings](https://github.com/zara-shahid/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3903-smallest-stable-index-i](https://github.com/zara-shahid/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/zara-shahid/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/zara-shahid/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/zara-shahid/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3707-equal-score-substrings](https://github.com/zara-shahid/Leetcode/tree/master/3707-equal-score-substrings) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/zara-shahid/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/zara-shahid/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/zara-shahid/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
