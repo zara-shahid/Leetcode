@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/zara-shahid/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1818-minimum-absolute-sum-difference](https://github.com/zara-shahid/Leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1854-maximum-population-year](https://github.com/zara-shahid/Leetcode/tree/master/1854-maximum-population-year) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/zara-shahid/Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/zara-shahid/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/zara-shahid/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/zara-shahid/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/zara-shahid/Leetcode/tree/master/1854-maximum-population-year) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/zara-shahid/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/zara-shahid/Leetcode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/zara-shahid/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/zara-shahid/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/zara-shahid/Leetcode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/zara-shahid/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1854-maximum-population-year](https://github.com/zara-shahid/Leetcode/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/zara-shahid/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/zara-shahid/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
