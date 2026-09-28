@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/zara-shahid/Leetcode/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/zara-shahid/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/zara-shahid/Leetcode/tree/master/3024-type-of-triangle) |
+| [3028-ant-on-the-boundary](https://github.com/zara-shahid/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/zara-shahid/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/zara-shahid/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/zara-shahid/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/zara-shahid/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/zara-shahid/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/zara-shahid/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
+| [3028-ant-on-the-boundary](https://github.com/zara-shahid/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/zara-shahid/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/zara-shahid/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/zara-shahid/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2739-total-distance-traveled](https://github.com/zara-shahid/Leetcode/tree/master/2739-total-distance-traveled) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/zara-shahid/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3028-ant-on-the-boundary](https://github.com/zara-shahid/Leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/zara-shahid/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3336-water-bottles-ii](https://github.com/zara-shahid/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/zara-shahid/Leetcode/tree/master/3354-make-array-elements-equal-to-zero) |
