@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/zara-shahid/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/zara-shahid/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/zara-shahid/Leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0540-single-element-in-a-sorted-array](https://github.com/zara-shahid/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/zara-shahid/Leetcode/tree/master/0561-array-partition) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/zara-shahid/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/zara-shahid/Leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/zara-shahid/Leetcode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/zara-shahid/Leetcode/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/zara-shahid/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/zara-shahid/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/zara-shahid/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/zara-shahid/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/zara-shahid/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/zara-shahid/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/zara-shahid/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/zara-shahid/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/zara-shahid/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/zara-shahid/Leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/zara-shahid/Leetcode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/zara-shahid/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/zara-shahid/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -1188,4 +1192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/zara-shahid/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2762-continuous-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/2762-continuous-subarrays) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/zara-shahid/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
