@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/zara-shahid/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1635-number-of-good-pairs](https://github.com/zara-shahid/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1664-ways-to-make-a-fair-array](https://github.com/zara-shahid/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1695-maximum-erasure-value](https://github.com/zara-shahid/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/zara-shahid/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/zara-shahid/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/zara-shahid/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1664-ways-to-make-a-fair-array](https://github.com/zara-shahid/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1712-ways-to-split-array-into-three-subarrays](https://github.com/zara-shahid/Leetcode/tree/master/1712-ways-to-split-array-into-three-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/zara-shahid/Leetcode/tree/master/1732-find-the-highest-altitude) |
